@@ -1,0 +1,2 @@
+# localai
+localaimodelsincludingqwen
